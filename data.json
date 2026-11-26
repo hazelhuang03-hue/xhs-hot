@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-26 14:39",
- "cache_at": "2026/11/26 14:39:30",
+ "generated_at": "2026-11-26 14:49",
+ "cache_at": "2026/11/26 14:49:30",
  "groups": {
   "留学港硕": {
    "items": [
@@ -860,13 +860,33 @@
     },
     {
      "title": "港校名场面也是让我碰上了",
-     "hot": "8497",
-     "likes_num": 8497,
+     "hot": "8518",
+     "likes_num": 8518,
      "author": "大湾区饮茶人",
      "time": "6天前",
      "kw": "香港中文大学",
      "url": "https://www.xiaohongshu.com/search_result/6aff1b0c00000000230127e1?xsec_token=ABvDXoxEwUSTJmztPv_UL-gDlfjSgtvupRdHvnt2bvDYY=&xsec_source=",
      "rank": 2
+    },
+    {
+     "title": "刚入学vs毕业",
+     "hot": "2366",
+     "likes_num": 2366,
+     "author": "从南到北",
+     "time": "09-15",
+     "kw": "香港大学",
+     "url": "https://www.xiaohongshu.com/search_result/6aa8aaac000000002502fa7a?xsec_token=AB-_K_z_kiTt4okOaY1U7llDo5iayFhV4kw3lRPXlZb2I=&xsec_source=",
+     "rank": 3
+    },
+    {
+     "title": "突然发现自己大学四年攒了五张学生证……",
+     "hot": "2001",
+     "likes_num": 2001,
+     "author": "Leslie🍐",
+     "time": "08-21",
+     "kw": "香港理工大学",
+     "url": "https://www.xiaohongshu.com/search_result/6a87bfe70000000016019a47?xsec_token=AB_uzVMm25qOE69caeWlLmH08MrrNlDRmlfLee2_Q1zFk=&xsec_source=",
+     "rank": 4
     },
     {
      "title": "⚠️严正声明",
@@ -876,7 +896,7 @@
      "time": "10-26",
      "kw": "香港理工大学",
      "url": "https://www.xiaohongshu.com/search_result/6adf17e70000000017035edc?xsec_token=ABzkvfuFtUvZlemcY5p8Q9Xbh4um273XbWgY_4Wap349E=&xsec_source=",
-     "rank": 3
+     "rank": 5
     },
     {
      "title": "End of an era🎓",
@@ -886,27 +906,27 @@
      "time": "11-17",
      "kw": "香港中文大学",
      "url": "https://www.xiaohongshu.com/search_result/6afc3602000000002a00f6f2?xsec_token=AB2hgSZOsCzIbGm9ug_9TIRAx5QS63dnEnjg08SjRbNOY=&xsec_source=",
-     "rank": 4
+     "rank": 6
+    },
+    {
+     "title": "看到排名的一瞬间懵逼",
+     "hot": "1396",
+     "likes_num": 1396,
+     "author": "pp",
+     "time": "11-04",
+     "kw": "香港城市大学",
+     "url": "https://www.xiaohongshu.com/search_result/6aead5350000000003014e7d?xsec_token=ABTgggVRvSED97zyAVHIhKBWkK_8zLCRrRy2pLA07KwtQ=&xsec_source=",
+     "rank": 7
     },
     {
      "title": "自此，人生全是上坡路🎓🎞️",
-     "hot": "1303",
-     "likes_num": 1303,
+     "hot": "1304",
+     "likes_num": 1304,
      "author": "小狗不高兴",
      "time": "3天前",
      "kw": "香港大学",
      "url": "https://www.xiaohongshu.com/search_result/6affda80000000002b007b7c?xsec_token=ABvDXoxEwUSTJmztPv_UL-gGyJpSLrmrvWEBH_NlQDCos=&xsec_source=",
-     "rank": 5
-    },
-    {
-     "title": "你愿意读我的博士吗",
-     "hot": "817",
-     "likes_num": 817,
-     "author": "东北宋仲基",
-     "time": "11-02",
-     "kw": "香港城市大学",
-     "url": "https://www.xiaohongshu.com/search_result/6ae8a43c000000003601b1f2?xsec_token=ABZtHA03z7aFgfW8FMS7XRXWhelDxU3dDq_f29gWhdeiQ=&xsec_source=",
-     "rank": 6
+     "rank": 8
     },
     {
      "title": "🇭🇰30+中登港理工毕业啦",
@@ -916,7 +936,7 @@
      "time": "11-14",
      "kw": "香港理工大学",
      "url": "https://www.xiaohongshu.com/search_result/6af72163000000002c00c025?xsec_token=AB2RgP2Ok1PelhBjcHVUtB4mMOF3To9ZZA4HlB-dE2n-k=&xsec_source=",
-     "rank": 7
+     "rank": 9
     },
     {
      "title": "港硕orientation day✌️",
@@ -926,7 +946,27 @@
      "time": "08-26",
      "kw": "香港理工大学",
      "url": "https://www.xiaohongshu.com/search_result/6a8dab03000000001803c921?xsec_token=ABQDFL-poDFZvJbXjQGKPAyljYvtRwVi4pgUMCdKHWXKg=&xsec_source=",
-     "rank": 8
+     "rank": 10
+    },
+    {
+     "title": "论27fall 相较polyu cityu的性价比有多高",
+     "hot": "549",
+     "likes_num": 549,
+     "author": "今天晚上吃什么？",
+     "time": "09-20",
+     "kw": "香港城市大学",
+     "url": "https://www.xiaohongshu.com/search_result/6aaf87c70000000026020a5b?xsec_token=ABi0aDpxLT8G4U0m_SFNqYr__VLLOUW0XMUQF20XU-_wE=&xsec_source=",
+     "rank": 11
+    },
+    {
+     "title": "HKUST捞人",
+     "hot": "495",
+     "likes_num": 495,
+     "author": "momo",
+     "time": "1天前",
+     "kw": "香港科技大学",
+     "url": "https://www.xiaohongshu.com/search_result/6b02e0bd0000000019036b99?xsec_token=ABiP8szfBCyHLfRij54iEh-vlbCle-EnRjtU4zEq62bXA=&xsec_source=",
+     "rank": 12
     },
     {
      "title": "我的学生时代落幕了🎓",
@@ -936,37 +976,27 @@
      "time": "11-13",
      "kw": "香港中文大学",
      "url": "https://www.xiaohongshu.com/search_result/6af702dd000000002b0300ab?xsec_token=AB2RgP2Ok1PelhBjcHVUtB4g6M1P8O7Zr1NASyCcjhNBU=&xsec_source=",
-     "rank": 9
-    },
-    {
-     "title": "HKUST捞人",
-     "hot": "493",
-     "likes_num": 493,
-     "author": "momo",
-     "time": "1天前",
-     "kw": "香港科技大学",
-     "url": "https://www.xiaohongshu.com/search_result/6b02e0bd0000000019036b99?xsec_token=ABiP8szfBCyHLfRij54iEh-vlbCle-EnRjtU4zEq62bXA=&xsec_source=",
-     "rank": 10
+     "rank": 13
     },
     {
      "title": "香港中文大学美食毕业致恨：庞万伦餐厅",
-     "hot": "447",
-     "likes_num": 447,
+     "hot": "458",
+     "likes_num": 458,
      "author": "面目可憎的动物",
      "time": "昨天 19:10",
      "kw": "香港中文大学",
      "url": "https://www.xiaohongshu.com/search_result/6b06c209000000001803963e?xsec_token=ABSEz4Y-t_9_rgSe5trb0JV-PTc9jBtHOKQ_gQNJumNSc=&xsec_source=",
-     "rank": 11
+     "rank": 14
     },
     {
-     "title": "给大家普及一下港硕留校工作的一天（想吃麦",
-     "hot": "429",
-     "likes_num": 429,
-     "author": "杰瑞森",
-     "time": "10-23",
-     "kw": "香港城市大学",
-     "url": "https://www.xiaohongshu.com/search_result/6adab414000000002b0022c7?xsec_token=AB7bB902Cq7EXHC2iZusJr79SxA89nnTZvLrz_049HUug=&xsec_source=",
-     "rank": 12
+     "title": "25岁我从港中文博士毕业啦！",
+     "hot": "445",
+     "likes_num": 445,
+     "author": "佳佳大王也是安娜呀",
+     "time": "11-14",
+     "kw": "香港中文大学",
+     "url": "https://www.xiaohongshu.com/search_result/6af7abac000000002501f21c?xsec_token=AB2RgP2Ok1PelhBjcHVUtB4uAQU0BMjoa2hsSwg-DrllU=&xsec_source=",
+     "rank": 15
     },
     {
      "title": "港中文｜存一些毕业照参考🎓",
@@ -976,7 +1006,7 @@
      "time": "11-14",
      "kw": "香港中文大学",
      "url": "https://www.xiaohongshu.com/search_result/6af85959000000002b0032f7?xsec_token=AB_Z6hWIWiByGkscX2YElWg6sEUPij9lS_-ulvDo-2hIk=&xsec_source=",
-     "rank": 13
+     "rank": 16
     },
     {
      "title": "分享下港前五给我的印象",
@@ -986,17 +1016,7 @@
      "time": "10-01",
      "kw": "香港城市大学",
      "url": "https://www.xiaohongshu.com/search_result/6abe7bee000000001c02c9df?xsec_token=ABGgzAegg_Mf8mnhRze2HtN35mzbYO058Jkafalq_KivI=&xsec_source=",
-     "rank": 14
-    },
-    {
-     "title": "终于入职了😭😭😭",
-     "hot": "322",
-     "likes_num": 322,
-     "author": "Pooh不是噗桑",
-     "time": "11-18",
-     "kw": "香港城市大学",
-     "url": "https://www.xiaohongshu.com/search_result/6af42e52000000002a012eea?xsec_token=ABjqcHqCByAbsOlK0f6pRwJZ2kB2jOXewtxlOkAAbAzws=&xsec_source=",
-     "rank": 15
+     "rank": 17
     },
     {
      "title": "end of an era♡",
@@ -1006,17 +1026,7 @@
      "time": "3天前",
      "kw": "香港大学",
      "url": "https://www.xiaohongshu.com/search_result/6b0292fc000000002a038308?xsec_token=ABiP8szfBCyHLfRij54iEh-mF-kRyqoIdRqgbZ1baTHCo=&xsec_source=",
-     "rank": 16
-    },
-    {
-     "title": "start of an age🎓",
-     "hot": "279",
-     "likes_num": 279,
-     "author": "嘎巴",
-     "time": "11-13",
-     "kw": "香港中文大学",
-     "url": "https://www.xiaohongshu.com/search_result/6af70609000000001c032797?xsec_token=AB2RgP2Ok1PelhBjcHVUtB4uA4MZ5NBG2NJuSm3f2si1M=&xsec_source=",
-     "rank": 17
+     "rank": 18
     },
     {
      "title": "see you CU🎓",
@@ -1026,7 +1036,7 @@
      "time": "11-01",
      "kw": "香港中文大学",
      "url": "https://www.xiaohongshu.com/search_result/6ae6e948000000001a02186a?xsec_token=ABXursO1Hcbjlw_a6Fm1i_63nH9DmBzoKObcNPxthYz4c=&xsec_source=",
-     "rank": 18
+     "rank": 19
     },
     {
      "title": "我从港理工毕业啦🎓",
@@ -1036,16 +1046,6 @@
      "time": "6天前",
      "kw": "香港理工大学",
      "url": "https://www.xiaohongshu.com/search_result/6aeabf9d0000000003005199?xsec_token=ABTgggVRvSED97zyAVHIhKBR_UqyLblyW4qF4WNV0QLIk=&xsec_source=",
-     "rank": 19
-    },
-    {
-     "title": "青春没有结束 我们永远风华正茂",
-     "hot": "198",
-     "likes_num": 198,
-     "author": "leeboom",
-     "time": "3天前",
-     "kw": "香港大学",
-     "url": "https://www.xiaohongshu.com/search_result/6b02930b000000001f0152c9?xsec_token=ABiP8szfBCyHLfRij54iEh-gA691cmNXtobeckAg0sWMA=&xsec_source=",
      "rank": 20
     },
     {
@@ -1060,8 +1060,8 @@
     },
     {
      "title": "香港中文大学最佳观景路线（纯走+电梯）",
-     "hot": "166",
-     "likes_num": 166,
+     "hot": "165",
+     "likes_num": 165,
      "author": "楊枝甘露shake shake",
      "time": "4天前",
      "kw": "香港中文大学",
@@ -1079,16 +1079,6 @@
      "rank": 23
     },
     {
-     "title": "🇭🇰港硕工科煎蛋的一周",
-     "hot": "124",
-     "likes_num": 124,
-     "author": "我不是蛋神",
-     "time": "10-30",
-     "kw": "香港中文大学",
-     "url": "https://www.xiaohongshu.com/search_result/6ae42423000000001100e156?xsec_token=AB0aXVMRBZYfx7iIviHT1KAtEKL5IrTBJp6PFQrlu4EdU=&xsec_source=",
-     "rank": 24
-    },
-    {
      "title": "劳斯莱斯大学 - 港科大创校史",
      "hot": "121",
      "likes_num": 121,
@@ -1096,37 +1086,37 @@
      "time": "1天前",
      "kw": "香港科技大学",
      "url": "https://www.xiaohongshu.com/search_result/6b03f4e5000000002b003539?xsec_token=ABnocpNDc1Eg5EoaylmFoZIKiMFF3GExWM4dxFBZkufzc=&xsec_source=",
+     "rank": 24
+    },
+    {
+     "title": "毕业生代表👩‍🎓从香港中文大学深圳毕业啦",
+     "hot": "117",
+     "likes_num": 117,
+     "author": "多肉酱酱",
+     "time": "2天前",
+     "kw": "香港中文大学",
+     "url": "https://www.xiaohongshu.com/search_result/6b04fa390000000023011a9c?xsec_token=ABLSmINilVT3MMRGRM_qlHuo0Dl9RCEsL3VU_PLJe_Njk=&xsec_source=",
      "rank": 25
     },
     {
-     "title": "PLOG｜大学老师的高桌晚宴日 🥂",
-     "hot": "96",
-     "likes_num": 96,
-     "author": "任雨杰",
-     "time": "12小时前",
+     "title": "🎗️CUHK紫很有韵味🪻",
+     "hot": "116",
+     "likes_num": 116,
+     "author": "o松露酱小毛米大王o",
+     "time": "11-15",
      "kw": "香港中文大学",
-     "url": "https://www.xiaohongshu.com/search_result/6b071d6f0000000019030e0f?xsec_token=AB3OvmcGKSeKnUTDMIOLVpwJVPTqfSQZnU66criobvm3I=&xsec_source=",
+     "url": "https://www.xiaohongshu.com/search_result/6af9821e000000002b018c1a?xsec_token=ABEv2xX1DDYEAXh3mqF52kS70_TzMpplxKQCQH6JWCT2I=&xsec_source=",
      "rank": 26
     },
     {
-     "title": "26fall港理工在读 爹妈给了45w 就剩9w了😃",
-     "hot": "95",
-     "likes_num": 95,
-     "author": "我迪迦在东北",
-     "time": "10-09",
-     "kw": "香港理工大学",
-     "url": "https://www.xiaohongshu.com/search_result/6ac8d9f500000000140001e8?xsec_token=ABm5Cqz2yKavwMY5va_8SFnWAKQ46z9f1O1Q3ZaSWBsWo=&xsec_source=",
+     "title": "PLOG｜大学老师的高桌晚宴日 🥂",
+     "hot": "98",
+     "likes_num": 98,
+     "author": "任雨杰",
+     "time": "13小时前",
+     "kw": "香港中文大学",
+     "url": "https://www.xiaohongshu.com/search_result/6b071d6f0000000019030e0f?xsec_token=AB3OvmcGKSeKnUTDMIOLVpwJVPTqfSQZnU66criobvm3I=&xsec_source=",
      "rank": 27
-    },
-    {
-     "title": "🇭🇰🎓 𝑮𝒓𝒂𝒅𝒖𝒂𝒕𝒊𝒐𝒏 / 红砖启序",
-     "hot": "95",
-     "likes_num": 95,
-     "author": "椒盐pp虾",
-     "time": "11-05",
-     "kw": "香港理工大学",
-     "url": "https://www.xiaohongshu.com/search_result/6aec97fb000000000e025822?xsec_token=ABf5iricdRCWQipvTUK069Gnl1sF0unF8ceYVrYbHUCEY=&xsec_source=",
-     "rank": 28
     },
     {
      "title": "和HKU的故事迎来了尾章",
@@ -1136,7 +1126,27 @@
      "time": "5天前",
      "kw": "香港大学",
      "url": "https://www.xiaohongshu.com/search_result/6b003cbb000000001601bea8?xsec_token=ABaPYeoFCmAo-DeiA47puhJK6K3ouAv7KYukdSQWZfd4I=&xsec_source=",
+     "rank": 28
+    },
+    {
+     "title": "偏我来时不逢春",
+     "hot": "80",
+     "likes_num": 80,
+     "author": "nylon",
+     "time": "11-04",
+     "kw": "香港城市大学",
+     "url": "https://www.xiaohongshu.com/search_result/6aeadba3000000000300b579?xsec_token=ABTgggVRvSED97zyAVHIhKBVwcEB0qmssWPhaB4XIF0gM=&xsec_source=",
      "rank": 29
+    },
+    {
+     "title": "在港中文毕业典礼偶遇了77和tomo～",
+     "hot": "79",
+     "likes_num": 79,
+     "author": "爆炸海胆片",
+     "time": "11-14",
+     "kw": "香港中文大学",
+     "url": "https://www.xiaohongshu.com/search_result/6af740aa0000000023012ad7?xsec_token=AB2RgP2Ok1PelhBjcHVUtB4u-t-TLFooki3LNeJyTDdJY=&xsec_source=",
+     "rank": 30
     },
     {
      "title": "浅谈一下｜港硕回国的认可度（已就业版）",
@@ -1146,7 +1156,17 @@
      "time": "11-01",
      "kw": "香港理工大学",
      "url": "https://www.xiaohongshu.com/search_result/6ae74071000000000e00fab0?xsec_token=ABzlaIIde_0pS8g-jNohRuTyjqUGTOwkf02Hu9zh_RWes=&xsec_source=",
-     "rank": 30
+     "rank": 31
+    },
+    {
+     "title": "🇭🇰我的学生时代迎来了最终篇章",
+     "hot": "71",
+     "likes_num": 71,
+     "author": "CCandies",
+     "time": "11-16",
+     "kw": "香港理工大学",
+     "url": "https://www.xiaohongshu.com/search_result/6afa82fc000000002b0034a8?xsec_token=ABPg6mJmdQ2nVGWAS0-n_5OfpNU5-N2m0n35udFxLmzDo=&xsec_source=",
+     "rank": 32
     },
     {
      "title": "致我的港理：终章，启程🎓🇭🇰💐",
@@ -1156,7 +1176,17 @@
      "time": "11-17",
      "kw": "香港理工大学",
      "url": "https://www.xiaohongshu.com/search_result/6af86ff1000000001802a262?xsec_token=AB_Z6hWIWiByGkscX2YElWg1845GQoCVFapn3OO-TL2dM=&xsec_source=",
-     "rank": 31
+     "rank": 33
+    },
+    {
+     "title": "港硕开学一周又一天🇭🇰",
+     "hot": "65",
+     "likes_num": 65,
+     "author": "一颗杏仁",
+     "time": "09-07",
+     "kw": "香港理工大学",
+     "url": "https://www.xiaohongshu.com/search_result/6a9e344a0000000012037669?xsec_token=ABjCToRaGa7URjD_AWSgtF2vVvvWbVvWJ6wv8Wd_SWGMk=&xsec_source=",
+     "rank": 34
     },
     {
      "title": "港科大最高的桥终于修好了🌉",
@@ -1166,17 +1196,7 @@
      "time": "3天前",
      "kw": "香港科技大学",
      "url": "https://www.xiaohongshu.com/search_result/6b02d3fe000000002b01d0f7?xsec_token=ABiP8szfBCyHLfRij54iEh-iS3HMZPifjze7mKJQs53Bg=&xsec_source=",
-     "rank": 32
-    },
-    {
-     "title": "港理PolyU的同学们你们嘴真严啊🏫",
-     "hot": "59",
-     "likes_num": 59,
-     "author": "蓝丢丢没丢",
-     "time": "5天前",
-     "kw": "香港理工大学",
-     "url": "https://www.xiaohongshu.com/search_result/6b00693d000000002203838f?xsec_token=ABaPYeoFCmAo-DeiA47puhJHqlOe4qQsYmFIk0YYTcogQ=&xsec_source=",
-     "rank": 33
+     "rank": 35
     },
     {
      "title": "来人啊！HKUSTGZ上海&香港招聘会进行中",
@@ -1186,7 +1206,7 @@
      "time": "2天前",
      "kw": "香港科技大学",
      "url": "https://www.xiaohongshu.com/search_result/6b0416ff000000002a0293fd?xsec_token=ABLSmINilVT3MMRGRM_qlHukllUhau-y-40ck7kkQbIog=&xsec_source=",
-     "rank": 34
+     "rank": 36
     },
     {
      "title": "😭梦想成真",
@@ -1196,17 +1216,17 @@
      "time": "6天前",
      "kw": "香港大学",
      "url": "https://www.xiaohongshu.com/search_result/6affb3e8000000002501f1bc?xsec_token=ABvDXoxEwUSTJmztPv_UL-gFtOtb5_BGFkDii02ZqCJdU=&xsec_source=",
-     "rank": 35
+     "rank": 37
     },
     {
-     "title": "🇭🇰HKU | Distinction 🎓毕业干货",
-     "hot": "46",
-     "likes_num": 46,
-     "author": "懒懒大王",
-     "time": "3天前",
-     "kw": "香港大学",
-     "url": "https://www.xiaohongshu.com/search_result/6b03b1e20000000026025cf1?xsec_token=ABnocpNDc1Eg5EoaylmFoZIJx6EMHOJG-8MIfYt05DzmY=&xsec_source=",
-     "rank": 36
+     "title": "全职RA招聘-港中文社会学系",
+     "hot": "47",
+     "likes_num": 47,
+     "author": "FallenSakura",
+     "time": "1小时前",
+     "kw": "香港中文大学",
+     "url": "https://www.xiaohongshu.com/search_result/6b07be770000000009023e5d?xsec_token=AB3OvmcGKSeKnUTDMIOLVpwEzLyP05-JxngflHH0w1OZw=&xsec_source=",
+     "rank": 38
     },
     {
      "title": "香港大学计算机硕士笔试题",
@@ -1216,36 +1236,16 @@
      "time": "昨天 16:37",
      "kw": "香港大学",
      "url": "https://www.xiaohongshu.com/search_result/6b069e54000000001b01caf0?xsec_token=ABSEz4Y-t_9_rgSe5trb0JV7EM0E3gy2uuRBCFL9qw_yQ=&xsec_source=",
-     "rank": 37
-    },
-    {
-     "title": "🎓 HKU 🔚",
-     "hot": "44",
-     "likes_num": 44,
-     "author": "极品美萌小女孩",
-     "time": "2天前",
-     "kw": "香港大学",
-     "url": "https://www.xiaohongshu.com/search_result/6b047c78000000001601b608?xsec_token=ABLSmINilVT3MMRGRM_qlHuoxI-C2VoEM7NMPZZtSpxno=&xsec_source=",
-     "rank": 38
-    },
-    {
-     "title": "Bye👋 UST🎓～",
-     "hot": "43",
-     "likes_num": 43,
-     "author": "xxx",
-     "time": "4天前",
-     "kw": "香港科技大学",
-     "url": "https://www.xiaohongshu.com/search_result/6b01d2a50000000014013857?xsec_token=ABFpGSctmdCMRBWweNzFeqiLxpbGg7tYbT0_qZq95DKko=&xsec_source=",
      "rank": 39
     },
     {
-     "title": "留学10载 圆满收官🇭🇰",
-     "hot": "41",
-     "likes_num": 41,
-     "author": "释人",
-     "time": "2天前",
-     "kw": "香港科技大学",
-     "url": "https://www.xiaohongshu.com/search_result/6b050f4c000000002b019f61?xsec_token=ABx4TuZR9ZXPhCWc7UABXO3k2lbGGb5xOuY7jEN4FWktg=&xsec_source=",
+     "title": "👩‍🎓入职2.5个月后的毕业快乐",
+     "hot": "45",
+     "likes_num": 45,
+     "author": "糯糯温",
+     "time": "5天前",
+     "kw": "香港大学",
+     "url": "https://www.xiaohongshu.com/search_result/6b003dcf000000001802a955?xsec_token=ABaPYeoFCmAo-DeiA47puhJPOxbaCFGJwNw1haAd0SpfA=&xsec_source=",
      "rank": 40
     }
    ],
