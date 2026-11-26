@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>香港青年热榜</title>
+<style>
+:root{
+  --pink:#b03060; --pink-soft:#f8d7e2; --bg:#faf6f8; --card:#ffffff;
+  --text:#2b2b2b; --muted:#8a6a78; --line:rgba(180,60,130,.25);
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{
+  background:linear-gradient(160deg,#fdf2f6 0%,#faf6f8 40%,#f6eef4 100%);
+  color:var(--text); font:14px/1.6 -apple-system,"PingFang SC","Microsoft YaHei",sans-serif;
+  min-height:100vh; padding:16px 12px 40px;
+}
+.wrap{max-width:760px;margin:0 auto}
+header{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap;margin:6px 2px 14px}
+h1{font-size:22px;color:var(--pink)}
+.meta{color:var(--muted);font-size:12px}
+.tabs{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:14px;position:sticky;top:8px;z-index:5}
+.tab{
+  background:rgba(255,255,255,.85);border:1px solid var(--line);color:var(--muted);
+  padding:5px 14px;border-radius:99px;cursor:pointer;font-size:13px;backdrop-filter:blur(6px);
+}
+.tab.active{background:var(--pink);color:#fff;border-color:var(--pink)}
+.summary{
+  background:var(--card);border:1px solid var(--line);border-radius:14px;
+  padding:14px 16px;margin-bottom:14px;
+}
+.summary h2{font-size:14px;color:var(--pink);margin-bottom:2px}
+.summary .at{font-size:11px;color:#b9a6ae;margin-bottom:8px}
+.sec{margin-bottom:9px}
+.sec:last-child{margin-bottom:0}
+.sec h3{font-size:12px;color:var(--muted);margin-bottom:3px}
+.sec li{list-style:none;font-size:13px;padding:2px 0 2px 14px;position:relative}
+.sec li::before{content:"•";position:absolute;left:2px;color:var(--pink)}
+.note{
+  background:var(--card);border:1px solid rgba(180,60,130,.12);border-radius:12px;
+  padding:10px 12px;margin-bottom:8px;display:flex;gap:10px;align-items:flex-start;
+  text-decoration:none;color:inherit;transition:transform .06s,box-shadow .06s;
+}
+.note:hover{transform:translateY(-1px);box-shadow:0 3px 12px rgba(180,60,130,.12)}
+.rank{
+  min-width:28px;height:28px;border-radius:8px;display:flex;align-items:center;justify-content:center;
+  font-size:12px;font-weight:700;background:#f3ecef;color:var(--muted);flex:none;margin-top:2px;
+}
+.r1{background:#d81b60;color:#fff}.r2{background:#f06292;color:#fff}.r3{background:#f8bbd0;color:#fff}
+.body{flex:1;min-width:0}
+.t{font-size:13.5px;font-weight:600;line-height:1.45;word-break:break-word}
+.sub{font-size:11px;color:#b0a0a8;margin-top:2px;display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.kw{background:rgba(180,60,130,.12);color:var(--muted);padding:0 7px;border-radius:5px;font-size:10.5px}
+.likes{font-size:11.5px;color:#a06a80;flex:none;margin-top:4px;white-space:nowrap}
+.empty{padding:34px 10px;text-align:center;color:var(--muted)}
+footer{text-align:center;color:#b9a6ae;font-size:11px;margin-top:18px}
+@media (max-width:480px){
+  h1{font-size:19px}
+  .t{font-size:13px}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>🎓 香港青年热榜</h1>
+    <span class="meta" id="meta">加载中…</span>
+  </header>
+  <div class="tabs" id="tabs"></div>
+  <div id="summary"></div>
+  <div id="list"></div>
+  <footer>数据来自小红书公开热榜 · 每 10 分钟轮换更新 · 总结由 AI 生成 · 页面每 5 分钟自动刷新</footer>
+</div>
+<script>
+let DATA = { groups: {} };
+let cur = null;
+
+function esc(s){return String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
+
+function renderTabs(){
+  const names = Object.keys(DATA.groups);
+  if(!names.length) return;
+  if(!cur || !names.includes(cur)) cur = names[0];
+  document.getElementById('tabs').innerHTML = names.map(n=>
+    `<button class="tab${n===cur?' active':''}" onclick="cur='${esc(n)}';render()">${esc(n)}</button>`).join('');
+}
+
+function render(){
+  renderTabs();
+  const g = DATA.groups[cur] || {};
+  const s = g.summary || {};
+  let html = '';
+  if(s.focus && s.focus.length){
+    html += `<div class="summary"><h2>📊 主题洞察</h2><div class="at">${esc(s.at||'')}</div>`;
+    for(const [k,label] of [['focus','🔍 关注焦点'],['trends','📈 热点趋势'],['angles','✍️ 选题角度']]){
+      const vals = s[k] || [];
+      if(vals.length) html += `<div class="sec"><h3>${label}</h3>${vals.map(v=>`<li>${esc(v)}</li>`).join('')}</div>`;
+    }
+    html += `</div>`;
+  }
+  const items = g.items || [];
+  html += items.map(it=>{
+    const r = it.rank||0;
+    return `<a class="note" href="${esc(it.url)}" target="_blank" rel="noopener">
+      <span class="rank${r<=3?' r'+r:''}">${String(r).padStart(2,'0')}</span>
+      <div class="body">
+        <div class="t">${esc(it.title)}</div>
+        <div class="sub">${it.author?`<span>${esc(it.author)}${it.time?' · '+esc(it.time):''}</span>`:''}${it.kw?`<span class="kw">${esc(it.kw)}</span>`:''}</div>
+      </div>
+      ${it.hot?`<span class="likes">♥ ${esc(it.hot)}</span>`:''}
+    </a>`;
+  }).join('') || `<div class="empty">暂无数据</div>`;
+  document.getElementById('list').innerHTML = html;
+}
+
+async function load(){
+  try{
+    const r = await fetch('data.json?t=' + Date.now(), {cache:'no-store'});
+    const d = await r.json();
+    DATA = d;
+    document.getElementById('meta').textContent =
+      `数据更新于 ${esc(d.cache_at||d.generated_at||'')} · 页面 ${new Date().toLocaleTimeString('zh-CN',{hour12:false})} 刷新`;
+    render();
+  }catch(e){
+    document.getElementById('meta').textContent = '加载失败，稍后自动重试';
+  }
+}
+load();
+setInterval(load, 5*60*1000);
+</script>
+</body>
+</html>
