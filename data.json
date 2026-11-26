@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-26 11:06",
- "cache_at": "2026/11/26 11:06:22",
+ "generated_at": "2026-11-26 11:16",
+ "cache_at": "2026/11/26 11:16:22",
  "groups": {
   "留学港硕": {
    "items": [
@@ -1271,13 +1271,13 @@
   "香港AI": {
    "items": [
     {
-     "title": "20分钟全面拆解到底什么是 AI 智能体💪",
-     "hot": "3.1万",
-     "likes_num": 31000,
-     "author": "Gilbert",
-     "time": "11-02",
+     "title": "别再对AI这样说了！教你一套惊艳提示词写法",
+     "hot": "11万",
+     "likes_num": 110000,
+     "author": "王百能",
+     "time": "11-12",
      "kw": "AI工具",
-     "url": "https://www.xiaohongshu.com/search_result/6ae5fe31000000001200d7e4?xsec_token=ABrOWbDNl617Mq4R63CKQNrgxzV1aQ_ylae2L7xtw1Qzw=&xsec_source=",
+     "url": "https://www.xiaohongshu.com/search_result/6aeb03d10000000003003530?xsec_token=AB-KpDf4Di49ErHK_nQUUtReZFDdgNUUBkTiZqOikzFJI=&xsec_source=",
      "rank": 1
     },
     {
@@ -1311,39 +1311,39 @@
      "rank": 4
     },
     {
-     "title": "建议找工作的朋友，都去做一个AI作品集！",
-     "hot": "1.7万",
-     "likes_num": 17000,
-     "author": "阿囤囤",
-     "time": "11-03",
-     "kw": "AI求职",
-     "url": "https://www.xiaohongshu.com/search_result/6ae5d6ad000000000e02f631?xsec_token=ABrOWbDNl617Mq4R63CKQNrroC_wJm8ALA4-XJHz6xYL8=&xsec_source=",
-     "rank": 5
-    },
-    {
      "title": "不写代码，我给7个AI搭了一套共用记忆",
      "hot": "1.4万",
      "likes_num": 14000,
      "author": "矮油不错（AI版）",
      "time": "5天前",
-     "kw": "香港AI",
+     "kw": "AI工具",
      "url": "https://www.xiaohongshu.com/search_result/6b003b77000000002b030ec2?xsec_token=ABaPYeoFCmAo-DeiA47puhJNbIJqZd6pN5whTVOHEl6pE=&xsec_source=",
+     "rank": 5
+    },
+    {
+     "title": "AI 时代，普通人可以用HTML做的4件事🤔？",
+     "hot": "1.1万",
+     "likes_num": 11000,
+     "author": "ami.moment",
+     "time": "09-03",
+     "kw": "AI工具",
+     "url": "https://www.xiaohongshu.com/search_result/6a983cdf0000000025036fae?xsec_token=ABhOVX94jWKrBfwXokjmvbnQ50dCuERKNSmxMwdxEO2xk=&xsec_source=",
      "rank": 6
     },
     {
-     "title": "一张图搞懂AI工具，你都用过哪些？",
-     "hot": "1.1万",
-     "likes_num": 11000,
-     "author": "財知道",
-     "time": "08-02",
-     "kw": "AI工具",
-     "url": "https://www.xiaohongshu.com/search_result/6a6f0f950000000032032895?xsec_token=ABnVz5T9c0UUyfn97f_CMysr_Ie_lHdOr4LmBSReYvjQw=&xsec_source=",
+     "title": "香港小众｜🦜雀神 vs AI师傅✨",
+     "hot": "7767",
+     "likes_num": 7767,
+     "author": "Kat🐱",
+     "time": "5天前",
+     "kw": "香港AI",
+     "url": "https://www.xiaohongshu.com/search_result/6aff1928000000002b01ae06?xsec_token=ABvDXoxEwUSTJmztPv_UL-gP4oL9sHyavC8RacalQREkU=&xsec_source=",
      "rank": 7
     },
     {
      "title": "完全吃到ai时代红利站在巨人的肩膀上看世界",
-     "hot": "6792",
-     "likes_num": 6792,
+     "hot": "6795",
+     "likes_num": 6795,
      "author": "宋卷子（AI版）",
      "time": "10-24",
      "kw": "AI求职",
@@ -1351,23 +1351,23 @@
      "rank": 8
     },
     {
-     "title": "用全能参考做AI短片——步骤分享",
-     "hot": "6611",
-     "likes_num": 6611,
-     "author": "阿进的studio",
-     "time": "08-01",
-     "kw": "AI工具",
-     "url": "https://www.xiaohongshu.com/search_result/6a44a1390000000011006594?xsec_token=AB2O1eBwcxmi5PI2LULW1cR4ifUChYYuUZtwIjr1b8ewQ=&xsec_source=",
-     "rank": 9
-    },
-    {
      "title": "可以看看你们用codex做出来的伟大产品吗",
-     "hot": "5766",
-     "likes_num": 5766,
+     "hot": "5771",
+     "likes_num": 5771,
      "author": "Mary",
      "time": "11-15",
      "kw": "AI工具",
      "url": "https://www.xiaohongshu.com/search_result/6af92d4f000000002b024e95?xsec_token=ABEv2xX1DDYEAXh3mqF52kS-mdVHXdbQzqJkY88Mypjdw=&xsec_source=",
+     "rank": 9
+    },
+    {
+     "title": "AI面试完整指令",
+     "hot": "5641",
+     "likes_num": 5641,
+     "author": "女宝备忘录",
+     "time": "4天前",
+     "kw": "AI求职",
+     "url": "https://www.xiaohongshu.com/search_result/6a8d5627000000003300d490?xsec_token=ABQDFL-poDFZvJbXjQGKPAyvwmnJr6pfRonb0PnGfxbXU=&xsec_source=",
      "rank": 10
     },
     {
@@ -1381,16 +1381,6 @@
      "rank": 11
     },
     {
-     "title": "新手用AI Agent选哪个？我的使用经验",
-     "hot": "5039",
-     "likes_num": 5039,
-     "author": "加宁慢慢来",
-     "time": "09-15",
-     "kw": "AI工具",
-     "url": "https://www.xiaohongshu.com/search_result/6aa9305c00000000260329d0?xsec_token=ABpDo7Ku0uT46qx6nlL4feOU2XbxTEjtEgYZkVmyjQkLI=&xsec_source=",
-     "rank": 12
-    },
-    {
      "title": "📍VibeCoding审美救星｜6个宝藏参考网站",
      "hot": "5023",
      "likes_num": 5023,
@@ -1398,7 +1388,7 @@
      "time": "09-02",
      "kw": "AI工具",
      "url": "https://www.xiaohongshu.com/search_result/6a856bfa0000000028007cff?xsec_token=ABeLnrTWQZ9OLuxSfh49G78Acoei8fVBCcyWkWfMmvO4I=&xsec_source=",
-     "rank": 13
+     "rank": 12
     },
     {
      "title": "AI速成个人网站作品集！纯干货分享",
@@ -1408,37 +1398,37 @@
      "time": "05-15",
      "kw": "AI求职",
      "url": "https://www.xiaohongshu.com/search_result/6a06f58f000000003802006d?xsec_token=AB9PTMJx1AM4EDB7hnPrz-KrAW-ky-MH1N3ko7g6wL7Lg=&xsec_source=",
+     "rank": 13
+    },
+    {
+     "title": "折腾一年，我把Agent自动化系统开源了",
+     "hot": "3455",
+     "likes_num": 3455,
+     "author": "数字生命卡兹克",
+     "time": "11-12",
+     "kw": "AI工具",
+     "url": "https://www.xiaohongshu.com/search_result/6af57be0000000001601a95a?xsec_token=ABeXWX8IMshZywEzel9O3a6ewOsSxR0z8NQmy7iaD8pMs=&xsec_source=",
      "rank": 14
     },
     {
-     "title": "🇭🇰八达通last day😭👋🏻",
-     "hot": "3890",
-     "likes_num": 3890,
-     "author": "Dylan",
-     "time": "08-10",
-     "kw": "香港人工智能",
-     "url": "https://www.xiaohongshu.com/search_result/6a757eb40000000006007456?xsec_token=AB2aNTpaIzNZ6wU89iff4MPE9de5ZxDv-VNtOAQDvTKSo=&xsec_source=",
-     "rank": 15
-    },
-    {
-     "title": "一句话让AI剪视频、创意动效，送完整提示词",
-     "hot": "3149",
-     "likes_num": 3149,
-     "author": "和小武一起学AI",
-     "time": "09-11",
-     "kw": "AI工具",
-     "url": "https://www.xiaohongshu.com/search_result/6aa28af20000000011035f62?xsec_token=AB0mq5_tbOEDov_-lHJIYzPiGHasH7PEvL4DlUuoULTLg=&xsec_source=",
-     "rank": 16
-    },
-    {
      "title": "GitHub上都是免费的东西，但没人用",
-     "hot": "3064",
-     "likes_num": 3064,
+     "hot": "3067",
+     "likes_num": 3067,
      "author": "十二的Ai造物间",
      "time": "11-01",
      "kw": "AI工具",
      "url": "https://www.xiaohongshu.com/search_result/6ae47cb70000000006020f01?xsec_token=AB0aXVMRBZYfx7iIviHT1KAsxzy48gtk1a0xgWR7BxOD8=&xsec_source=",
-     "rank": 17
+     "rank": 15
+    },
+    {
+     "title": "AI 视频电影感〡将导演工具箱搬进画布",
+     "hot": "2998",
+     "likes_num": 2998,
+     "author": "李木木",
+     "time": "1天前",
+     "kw": "AI工具",
+     "url": "https://www.xiaohongshu.com/search_result/6af5b6b6000000002a0245ed?xsec_token=ABeXWX8IMshZywEzel9O3a6TsQpU5ed9pu4q0czWTeM0o=&xsec_source=",
+     "rank": 16
     },
     {
      "title": "秋招必看！GitHub上热门求职skill推荐",
@@ -1448,12 +1438,22 @@
      "time": "08-06",
      "kw": "AI求职",
      "url": "https://www.xiaohongshu.com/search_result/6a7367880000000006006d3d?xsec_token=ABB3_CHdDhrDdbEV_FY6-XgxSuvEexAUy4-y8_KXOEqNk=&xsec_source=",
+     "rank": 17
+    },
+    {
+     "title": "转行中的ai产品面试复盘（1）",
+     "hot": "2335",
+     "likes_num": 2335,
+     "author": "哒哒哒哒喵",
+     "time": "04-16",
+     "kw": "AI求职",
+     "url": "https://www.xiaohongshu.com/search_result/69e08752000000002202797e?xsec_token=ABuPhRckRhv17CZGfo5d5RMDm0YkBC3nW6GQ4tQVSR8ug=&xsec_source=",
      "rank": 18
     },
     {
      "title": "Codex这么高效的东西",
-     "hot": "2122",
-     "likes_num": 2122,
+     "hot": "2123",
+     "likes_num": 2123,
      "author": "小禾碎碎念日记📔",
      "time": "11-11",
      "kw": "AI工具",
@@ -1471,14 +1471,24 @@
      "rank": 20
     },
     {
-     "title": "💡GitHub看不懂？0基础小白速通指南！",
-     "hot": "1745",
-     "likes_num": 1745,
-     "author": "裙裙Stella",
-     "time": "11-04",
+     "title": "我发现还有很多人都没用上AI",
+     "hot": "1832",
+     "likes_num": 1832,
+     "author": "DataOps懒洋洋",
+     "time": "09-06",
      "kw": "AI工具",
-     "url": "https://www.xiaohongshu.com/search_result/6aeaee08000000000e035795?xsec_token=ABTgggVRvSED97zyAVHIhKBSTkbCnqMM47_25B2X8p_tQ=&xsec_source=",
+     "url": "https://www.xiaohongshu.com/search_result/6a9d435d000000001203583f?xsec_token=ABdGh8K-B65rcJ1IK75dGZpnWqu1VoehhGhaKZf4U-DsE=&xsec_source=",
      "rank": 21
+    },
+    {
+     "title": "AI Agent x Claude｜AI助手每天帮我找工",
+     "hot": "1793",
+     "likes_num": 1793,
+     "author": "一门儿儿",
+     "time": "2025-09-30",
+     "kw": "AI求职",
+     "url": "https://www.xiaohongshu.com/search_result/68dbc0ee000000000700b58a?xsec_token=ABcm2TL225Vg8ZNpEYINc8_X0kOlHN3hsi6tgMx-4d7Ow=&xsec_source=",
+     "rank": 22
     },
     {
      "title": "AI时代找工作难？这些人依然被抢着要",
@@ -1488,7 +1498,7 @@
      "time": "11-12",
      "kw": "AI求职",
      "url": "https://www.xiaohongshu.com/search_result/6af510e2000000002a03a01f?xsec_token=ABeXWX8IMshZywEzel9O3a6brxkFkbDf4HJx14MQjaT5Y=&xsec_source=",
-     "rank": 22
+     "rank": 23
     },
     {
      "title": "当宋徽宗和岳飞穿越来测评“黑科技”..",
@@ -1498,7 +1508,7 @@
      "time": "2025-12-06",
      "kw": "AI工具",
      "url": "https://www.xiaohongshu.com/search_result/693422e8000000000d03aa5b?xsec_token=ABON_oJk4-K_f_OMVtabi8m_o-WVjsZr0xEsdBEXFU4kY=&xsec_source=",
-     "rank": 23
+     "rank": 24
     },
     {
      "title": "27届应届生｜AIGC影视求职作品集",
@@ -1508,7 +1518,27 @@
      "time": "09-20",
      "kw": "AI求职",
      "url": "https://www.xiaohongshu.com/search_result/6a9e541e000000002700af9d?xsec_token=ABjCToRaGa7URjD_AWSgtF2nzNcrWLEjJph9o776LmLow=&xsec_source=",
-     "rank": 24
+     "rank": 25
+    },
+    {
+     "title": "厉害了！AI数字人生成超真实双人访谈播客",
+     "hot": "1281",
+     "likes_num": 1281,
+     "author": "Luna的AIGC频道",
+     "time": "10-24",
+     "kw": "AI工具",
+     "url": "https://www.xiaohongshu.com/search_result/6adade41000000002b02a380?xsec_token=AB7bB902Cq7EXHC2iZusJr73PZIl7cELB24xKXhfxh4r0=&xsec_source=",
+     "rank": 26
+    },
+    {
+     "title": "香港全民AI｜我听见了下一个时代的声音",
+     "hot": "1257",
+     "likes_num": 1257,
+     "author": "Jasper学长",
+     "time": "08-07",
+     "kw": "香港AI",
+     "url": "https://www.xiaohongshu.com/search_result/6a75501300000000050310a8?xsec_token=AB2aNTpaIzNZ6wU89iff4MPFqcg9CMO3Bzxufj8WViTTM=&xsec_source=",
+     "rank": 27
     },
     {
      "title": "1-如何筛选小而美的人工智能公司？",
@@ -1518,7 +1548,7 @@
      "time": "08-12",
      "kw": "AI求职",
      "url": "https://www.xiaohongshu.com/search_result/6a7c1add0000000006007356?xsec_token=ABC3-6_2VTUb0olLRMmz3j75ig_a34l9-1GuHIUydBMS8=&xsec_source=",
-     "rank": 25
+     "rank": 28
     },
     {
      "title": "香港留子能用GPT-6.1了啦啦啦",
@@ -1528,37 +1558,27 @@
      "time": "10-09",
      "kw": "香港AI",
      "url": "https://www.xiaohongshu.com/search_result/6ac8cea0000000000202904c?xsec_token=ABm5Cqz2yKavwMY5va_8SFnZLav1-NrrRe_EvpFCMoxeQ=&xsec_source=",
-     "rank": 26
-    },
-    {
-     "title": "想看看大家已经把AI用到了什么程度了",
-     "hot": "1160",
-     "likes_num": 1160,
-     "author": "AI豌豆荚",
-     "time": "11-13",
-     "kw": "AI工具",
-     "url": "https://www.xiaohongshu.com/search_result/6ad88525000000003101f7af?xsec_token=ABkOValehIw4f0gWn8tkw13zTW4r1niV9C0GaIWVR9c2k=&xsec_source=",
-     "rank": 27
-    },
-    {
-     "title": "AI港剧怎么做？1分钟教会你（附提示词）",
-     "hot": "1145",
-     "likes_num": 1145,
-     "author": "小黄的AI日记",
-     "time": "11-07",
-     "kw": "香港AI",
-     "url": "https://www.xiaohongshu.com/search_result/6aeeb326000000000e035bb8?xsec_token=AB9jL3yGlFZ0D728-V1HuLZQ69wXkrSkX5ulIpra7zf_U=&xsec_source=",
-     "rank": 28
-    },
-    {
-     "title": "我在香港，发现了最适合普通人的AI成长机会",
-     "hot": "887",
-     "likes_num": 887,
-     "author": "章炎炎",
-     "time": "08-06",
-     "kw": "香港AI",
-     "url": "https://www.xiaohongshu.com/search_result/6a74533b0000000033032e2c?xsec_token=ABwaSN1Z6-933lHoj_KHqRUNnYYD8jHVywTBcAOiNJl1Y=&xsec_source=",
      "rank": 29
+    },
+    {
+     "title": "想问问大家，AI视频都是用什么软件做的",
+     "hot": "1188",
+     "likes_num": 1188,
+     "author": "搞怪探索阿萌",
+     "time": "10-12",
+     "kw": "AI工具",
+     "url": "https://www.xiaohongshu.com/search_result/6acc838c0000000018011e11?xsec_token=ABm9d9tgjkTr9WtTrvu3tymSVZ2MZJiqKwv4n_WyOLy0Y=&xsec_source=",
+     "rank": 30
+    },
+    {
+     "title": "手把手教你制作AI歌手，4步轻松搞定！",
+     "hot": "1146",
+     "likes_num": 1146,
+     "author": "AI知识库",
+     "time": "2025-11-12",
+     "kw": "AI工具",
+     "url": "https://www.xiaohongshu.com/search_result/691433040000000004021285?xsec_token=ABqJvkfLQBMNFti5mooY3TXxzUuVmXRLbrffpx6XwNxwE=&xsec_source=",
+     "rank": 31
     },
     {
      "title": "别蹲了，你们要的小白AI热点抓取工具教程来",
@@ -1568,7 +1588,7 @@
      "time": "06-04",
      "kw": "AI工具",
      "url": "https://www.xiaohongshu.com/search_result/6a1fee310000000036031f35?xsec_token=ABw1Lo840rxgiZcq0H2F5FI8DenQEOVpXJJLng5ikse24=&xsec_source=",
-     "rank": 30
+     "rank": 32
     },
     {
      "title": "一天vibe coding出来的东西也能拿来创业？",
@@ -1578,7 +1598,7 @@
      "time": "10-03",
      "kw": "香港AI",
      "url": "https://www.xiaohongshu.com/search_result/6abfb575000000001c00f71d?xsec_token=ABP2cPg7JuiqG6aLvH0Xc6x2MH8cbZdO4kLTJalf5xiho=&xsec_source=",
-     "rank": 31
+     "rank": 33
     },
     {
      "title": "GitHub上都是免费的东西，但几乎没人用",
@@ -1588,17 +1608,17 @@
      "time": "11-02",
      "kw": "AI工具",
      "url": "https://www.xiaohongshu.com/search_result/6ae85625000000001a021b0b?xsec_token=ABZtHA03z7aFgfW8FMS7XRXTXlajBK6Qz3omnNr7WlpVA=&xsec_source=",
-     "rank": 32
+     "rank": 34
     },
     {
      "title": "🥹终于有人把AI🎬剪视频全流程讲清楚了‼️",
-     "hot": "703",
-     "likes_num": 703,
+     "hot": "707",
+     "likes_num": 707,
      "author": "瓷不辞🎬AI",
      "time": "5天前",
      "kw": "AI工具",
      "url": "https://www.xiaohongshu.com/search_result/6affe6b1000000002b0180d4?xsec_token=ABvDXoxEwUSTJmztPv_UL-gG4pkt3dFFGGkRdUR3ZxUXA=&xsec_source=",
-     "rank": 33
+     "rank": 35
     },
     {
      "title": "香港AI工作现状",
@@ -1608,17 +1628,7 @@
      "time": "11-16",
      "kw": "香港AI",
      "url": "https://www.xiaohongshu.com/search_result/6af9966d000000002a02d542?xsec_token=ABEv2xX1DDYEAXh3mqF52kSxFF353xZggP6X-3RTR0EAg=&xsec_source=",
-     "rank": 34
-    },
-    {
-     "title": "X上21万浏览的7个AI求职提示词",
-     "hot": "659",
-     "likes_num": 659,
-     "author": "Emily学AI",
-     "time": "09-09",
-     "kw": "AI求职",
-     "url": "https://www.xiaohongshu.com/search_result/6aa0d3c2000000001103bb0b?xsec_token=AB4HzBpi5zc_p9EvPR4cta5n3P73gUwVTxJdy9H3bzISs=&xsec_source=",
-     "rank": 35
+     "rank": 36
     },
     {
      "title": "有靠谱的香港 AI 公司吗？",
@@ -1626,19 +1636,19 @@
      "likes_num": 469,
      "author": "小事。",
      "time": "03-03",
-     "kw": "香港AI",
+     "kw": "香港人工智能",
      "url": "https://www.xiaohongshu.com/search_result/69a6588d0000000016009936?xsec_token=AB0Ytriwo5mqddq1EqVEwNmLkR7LSPZoSayOmM6eMhHf4=&xsec_source=",
-     "rank": 36
+     "rank": 37
     },
     {
-     "title": "一图看懂｜2026最好用的AI工具",
-     "hot": "459",
-     "likes_num": 459,
-     "author": "AI路小飞～胡老师",
-     "time": "11-10",
-     "kw": "AI工具",
-     "url": "https://www.xiaohongshu.com/search_result/6ae5c9bc0000000026024819?xsec_token=ABrOWbDNl617Mq4R63CKQNrip7gXRIX7_O6LbVHv21LTg=&xsec_source=",
-     "rank": 37
+     "title": "这句粤语文案｜一语双关很巧妙",
+     "hot": "457",
+     "likes_num": 457,
+     "author": "广告文案",
+     "time": "01-24",
+     "kw": "香港人工智能",
+     "url": "https://www.xiaohongshu.com/search_result/697479300000000022020f98?xsec_token=ABRYB_bNGjhjBgrH9jwZ9mrZkfuy923iQPq0e7qW4CHgk=&xsec_source=",
+     "rank": 38
     },
     {
      "title": "香港放大招！5000万全民AI培训来了",
@@ -1648,26 +1658,16 @@
      "time": "02-28",
      "kw": "香港人工智能",
      "url": "https://www.xiaohongshu.com/search_result/69a264fc0000000015023b45?xsec_token=AB5XGLnx9zognUbRAPR1pQslNbHQYOHqKt3s5YHY5vPF4=&xsec_source=",
-     "rank": 38
-    },
-    {
-     "title": "谁家AI初创愿意捡走一个肯吃苦的小女孩",
-     "hot": "304",
-     "likes_num": 304,
-     "author": "momo",
-     "time": "10-12",
-     "kw": "AI求职",
-     "url": "https://www.xiaohongshu.com/search_result/6acb649f000000000a023471?xsec_token=ABRHe7wvAWdvU-vLK0p9sWekcYZBlcyy5kOdMyW1EIifA=&xsec_source=",
      "rank": 39
     },
     {
-     "title": "如何使用AI帮自己求职",
-     "hot": "239",
-     "likes_num": 239,
-     "author": "YUE for AI",
-     "time": "08-19",
-     "kw": "AI求职",
-     "url": "https://www.xiaohongshu.com/search_result/6a8573730000000006004f69?xsec_token=ABeLnrTWQZ9OLuxSfh49G78Fe_Cf9cQgE235IYYcuOsPs=&xsec_source=",
+     "title": "28个AI工具，一张图看懂（2026版）​",
+     "hot": "277",
+     "likes_num": 277,
+     "author": "路小飞-精算领航员",
+     "time": "11-09",
+     "kw": "AI工具",
+     "url": "https://www.xiaohongshu.com/search_result/6af16c6a000000003302aba0?xsec_token=AB-C1hSXq2DoxJOx4_uJAjCNTK1kNy-RDTgvQ3P5WK4CA=&xsec_source=",
      "rank": 40
     }
    ],
